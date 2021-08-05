@@ -3,7 +3,7 @@
 
 # Inteligência Artificial aplicada ao meio Jurídico
 
-_Autor: João Pedro da S. L._
+_Autor: João Pedro da S. Lima_
 
 _Orientação: Prof. Dr. José Alfredo Costa_
 
@@ -13,12 +13,12 @@ As técnicas aqui demonstradas são focadas no processamento de textos em PT-BR,
 
 ## Mais sobre
 
-A pesquisa aqui descrita foi desenvolvida (até o momento) principalmente no período de AGO-2020 a AGO-2021.
+A pesquisa aqui descrita foi desenvolvida principalmente no período de AGO-2020 a AGO-2021.
 Os materiais disponibilizados são resultado de todo o trabalho desenvolvido nesse período.
 
 Nesta pesquisa, foram desenvolvidas aplicações, materiais e estudos sobre os principais algoritmos da área de IA, englobando os escopos supervisionado e não-supervisionado, com implementações em código de programação (principalmente Python) e com estudos teóricos sobre os detalhes matemáticos e estatísticos de cada algoritmo.
 
-O escopo principal da pesquisa foi o estudo e desenvolvimento de técnicas de processamento de linguagem natural (PLN) para _clustering_ de textos jurídicos.
+O escopo principal da pesquisa foi o estudo e desenvolvimento de técnicas de NLP para _clustering_ de textos jurídicos.
 
 ## Organização do Repositório
 
@@ -28,4 +28,4 @@ Durante a pesquisa, foram feitas **pesquisas principais**, **pesquisas paralelas
 
 * :open_file_folder: **Pesquisas principais**: São o foco da IC, os materiais mais aprofundados e que geram as principais análises. Atualmente são o _"O desenvolvimento de um modelo para Clustering textual com TF-IDF, Mapa de Kohonen e K-Means"_ e _"Avaliação do clustering de documentos legais com diferentes métodos de feature extraction"_.
 * :open_file_folder: **Pesquisas paralelas**: São pequenas pesquisas e experimentos pontuais desenvolvidas ao longo do IC.
-* :open_file_folder: **Materiais teróricos**: São materiais desenvolvido com intuito de estudar/apresentar conceitos de NLP e Machine Learning.
+* :open_file_folder: **Materiais teóricos**: São materiais desenvolvido com intuito de estudar/apresentar conceitos de NLP e Machine Learning.
