@@ -1,3 +1,6 @@
+<center><img width="1000" src="https://drive.google.com/uc?export=view&id=1VIuUT53cnELmrsdLTO0oDe7IavuuilS_"></center>
+<center>
+
 # Inteligência Artificial aplicada ao meio Jurídico
 
 _Autor: João Pedro da S. L._
