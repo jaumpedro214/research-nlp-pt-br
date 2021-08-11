@@ -28,4 +28,4 @@ Durante a pesquisa, foram feitas **pesquisas principais**, **pesquisas paralelas
 
 * :open_file_folder: **Pesquisas principais**: São o foco da IC, os materiais mais aprofundados e que geram as principais análises. Atualmente são o _"O desenvolvimento de um modelo para Clustering textual com TF-IDF, Mapa de Kohonen e K-Means"_ e _"Avaliação do clustering de documentos legais com diferentes métodos de feature extraction"_.
 * :open_file_folder: **Pesquisas paralelas**: São pequenas pesquisas e experimentos pontuais desenvolvidas ao longo do IC.
-* :open_file_folder: **Materiais teóricos**: São materiais desenvolvido com intuito de estudar/apresentar conceitos de NLP e Machine Learning.
+* :open_file_folder: **Materiais teóricos**: São materiais desenvolvidos com intuito de estudar/apresentar conceitos de NLP e Machine Learning.
